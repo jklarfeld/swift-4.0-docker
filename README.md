@@ -2,6 +2,6 @@ Creates a dockerfile based on [this](https://github.com/swiftdocker/docker-swift
 
 Obviously, these snapshots are a moving target, so maybe don't depend on this.
 
-#Building
+# Building
 
-`docker build -t whatever-feels-right`
+`docker build -t whatever-feels-right .`
